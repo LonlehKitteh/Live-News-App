@@ -8,3 +8,5 @@ yarn.lock
 package.json
 public
 tsconfig.json
+postcss.config.js
+tailwind.config.js

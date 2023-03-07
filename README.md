@@ -1,3 +1,3 @@
-# ALT + SHIFT + F - formatting
+# Documentation
 
-## we will see how this goes
+1. Convert to next.js 13 project by adding experimental feature (server components)
