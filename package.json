@@ -36,6 +36,8 @@
     "eslint-plugin-n": "^15.0.0",
     "eslint-plugin-promise": "^6.0.0",
     "eslint-plugin-react": "^7.31.11",
+    "graphql": "^16.6.0",
+    "graphql-request": "^5.2.0",
     "husky": "^8.0.0",
     "postcss": "^8.4.21",
     "prettier": "^2.8.2",
