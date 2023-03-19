@@ -1,4 +1,6 @@
 import React from "react";
+import LiveTimestamp from "./LiveTimestamp";
+import ReadMoreButton from "./ReadMoreButton";
 
 type Props = {
     article: Article;
@@ -27,11 +29,14 @@ function Article({ article }: Props) {
 
                     <footer>
                         <p>{article.source}</p>
-                        <p>{article.published_at}</p>
+                        <p>
+                            <LiveTimestamp time={article.published_at} />
+                        </p>
                     </footer>
                 </div>
 
                 {/* ReadMore button */}
+                <ReadMoreButton article={article} />
             </div>
         </article>
     );
