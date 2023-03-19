@@ -9,3 +9,8 @@
 3. git commit -m 'commit'
 4. testing check
 5. git push
+
+
+## You can visit project on website
+
+https://live-news-jbnajz5g0-lonlehkitteh.vercel.app/
